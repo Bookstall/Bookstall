@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 访问次数统计
+
+![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+
+### My GitHub Stats
+
+> 来源仓库 `GitHub Readme Stats`：https://github.com/anuraghazra/github-readme-stats
+
+[![Bookstall's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bookstall)](https://github.com/anuraghazra/github-readme-stats)
+
+![Bookstall's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bookstall&show_icons=true)
+
+![Bookstall's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bookstall&show_icons=true&theme=radical)
+
+### Top Languages
+
+![Bookstall's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bookstall&theme=blue-green)
+
+![Bookstall's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bookstall&theme=blue-green&langs_count=10&layout=compact)
+
+
+
